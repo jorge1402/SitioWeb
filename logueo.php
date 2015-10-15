@@ -42,8 +42,8 @@ if($Usuario=="ADMIN" && $clave=="ADMIN"){
 			<LEGEND> Ingrese sus Datos </LEGEND>
 			<FORM METHOD="POST">
 				<LABEL> Usuario </LABEL>
-				<INPUT TYPE="TEXT" NAME="Usuario"/>
-				<INPUT TYPE="PASSWORD" NAME="clave"/>
+				<INPUT TYPE="TEXT" NAME="User"/>
+				<INPUT TYPE="PASSWORD" NAME="contra"/>
 				<DIV CLASS="DERECHO">
 					<INPUT TYPE="CHECKBOX" NAME="RECORDAR"/>		
 					<LABEL> Recordar </LABEL>
